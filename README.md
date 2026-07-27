@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Serhat Turan!
 
-I am a Mathematics undergraduate at Dokuz Eylul University with a deep passion for Data Analysis and Data Science. I believe that with great data comes great responsibility, and I love translating complex, messy datasets into clear, actionable insights. 
+I am a Mathematics graduate from Dokuz Eylul University with a deep passion for Data Analysis and Data Science. I believe that with great data comes great responsibility, and I love translating complex, messy datasets into clear, actionable insights. 
 
 Here is what I am up to:
 
