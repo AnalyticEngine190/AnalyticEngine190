@@ -8,7 +8,7 @@ Here is what I am up to:
 - 🔭 **I’m currently working on:** Predicting high-voltage equipment failures using the Infrared Thermal Image dataset (I am soon done!).
 - 🌱 **I’m currently learning:** Advanced machine learning techniques while balancing my final year of school (graduating in June 2026!) and completing several data certifications. 
 - 🛠️ **My analytical stack:** Python (Pandas, Scikit-learn), SQL, Power BI, and Tableau. I enjoy engineering ETL pipelines and building predictive models like ARIMA.
-- ⚡ **When I'm not coding:** You can find me going to the gym, gaming, baking, cooking, or hanging out with friends. I'll be back (to the keyboard) right after!
+- ⚡ **When I'm not coding:** You can find me going to the gym, gaming, chess (1800 elo currently), baking, cooking, or hanging out with friends. I'll be back (to the keyboard) right after!
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/serhat-turan-data) or [Email](mailto:serhat190turan@gmail.com).
 
 *May the queries be with you!*
